@@ -1,0 +1,13 @@
+airflow/
+data_preview/
+unit_tests/
+venv/
+.gitignore
+10_compress_this.txt
+DE_Tech_Assessment_Metadata.pdf
+DE_Tech_Assessment.pdf
+doing_it.sql
+README.md
+img/
+temp_images/
+
